@@ -1,0 +1,77 @@
+body{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.title
+{
+    margin-left: 5%;
+    margin-bottom: 5%;
+    font-size: 35px;
+    font-weight: bold;  
+    color: white;   
+}
+.title2
+{
+    background-color: #035ED8;
+    width: 100%;
+}
+
+.des
+{
+    font-size: 20px;
+    font-weight: 500;
+}
+#message
+{
+    text-align: center;
+    font-weight: bold;
+    font-size: 22px;
+    padding-top: 8%;
+}
+
+#btnValider
+{
+    color: #035ed8;
+    background-color: white;
+}
+#btnValider:hover
+{
+    background-color: #035ed8;
+    color: white;
+}
+#btnForm
+{
+    text-align: center;
+}
+#prixTot
+{
+    font-size: 16px;
+    font-weight: bold;
+    float: right;
+    margin-right: 8%;
+}
+#btnSupprimer
+{
+    color: #035ed8;
+    background-color: white;
+}
+#btnSupprimer:hover
+{
+    background-color: #035ed8;
+    color: white;
+}
+
+#board{
+    width: 100%;
+    margin-bottom: 2%;
+    border: solid 1px;
+    border-color: #035ed8;
+}
+.td
+{
+    width: 15%;
+}
+#footer
+{
+    margin-top: 18%;
+}

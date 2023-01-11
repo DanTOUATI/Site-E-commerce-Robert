@@ -1,0 +1,48 @@
+li
+{
+   margin-left: 50px;
+}
+.mb-4 {
+    margin-bottom: 0rem;
+}
+#btnConnexion
+{
+    color: black;
+    border-color: black;
+    height: 40px;
+    width: 40%;
+}
+#btnConnexion:hover{
+    color: white;
+    background-color: black;
+}
+#btnInscription
+{
+    background-color: black;
+    color: white;
+    border: none;
+    width: 40%;
+    height: 40px;
+}
+#btnDeconnexion
+{
+    color: black;
+    border-color: black;
+    height: 40px;
+}
+#btnDeconnexion:hover
+{
+    color: white;
+    background-color: black;
+}
+#welcome
+{
+    color: #035ed8;
+    margin-right: 8%;
+}
+#contient
+{
+    width: 37%;
+}
+
+

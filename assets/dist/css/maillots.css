@@ -1,0 +1,30 @@
+body{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+h1{
+    padding-bottom: 5%;
+}
+#img
+{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.card-footer
+{
+    background-color: #035ED8;
+    color: white;
+    text-align: center;
+}
+.card-body
+{
+    padding: 0;
+}
+.card-title
+{
+    text-align: center;
+    font-size: 16px;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding-bottom: 5px;
+}

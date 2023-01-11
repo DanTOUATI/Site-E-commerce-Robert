@@ -1,0 +1,36 @@
+body{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.title
+{
+    margin-left: 5%;
+    margin-bottom: 5%;
+    font-size: 35px;
+    font-weight: bold;  
+    color: white;   
+}
+.title2
+{
+    background-color: #035ED8;
+    width: 100%;
+}
+.form-control
+{
+    width: 40%;
+    border: solid 1px;
+    border-color: #035ED8;
+}
+#btn
+{
+    margin-left: 30%;
+}
+#inputAddress
+{
+    width: 71%;
+}
+form
+{
+    margin-left: 20%;
+}
+

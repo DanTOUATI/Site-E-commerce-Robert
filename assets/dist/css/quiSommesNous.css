@@ -1,0 +1,64 @@
+body{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.title
+{
+    margin-left: 5%;
+    margin-bottom: 5%;
+    font-size: 35px;
+    font-weight: bold;  
+    color: white;   
+}
+.title2
+{
+    background-color: #035ED8;
+    width: 100%;
+}
+#video
+{
+    text-align: center;
+}
+.descrip
+{
+    margin: 3%;
+    font-size: 18px;
+}
+table
+{
+    width: 100%;
+    text-align: center;
+}
+.contact
+{
+    font-size: 18px;
+    margin-left: 5%;
+}
+#map
+{
+    text-align: center;
+}
+#carte
+{
+    margin: 3%;
+    width: 90%;
+    height: 400px;
+}
+#marquage
+{
+    width: 80%;
+
+}
+#txt
+{
+    font-size: 18px;
+}
+#colTxt
+{
+    text-align: left;
+}
+#board
+{
+    margin-bottom: 5%;
+}
